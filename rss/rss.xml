@@ -9,12 +9,9 @@
   <item>
     <title>Girl Scouts: Geocaching Badge</title>
     <link>https://apzzd.github.io/girlscouts/geocaching/index.html</link>
+    <guid>https://apzzd.github.io/girlscouts/geocaching/index.html</guid>
     <description>Find out about my geocaching adventure.</description>
-    <image>
-      <url>https://raw.githubusercontent.com/apzzd/girlscouts/master/geocaching/04-found-second-geocache.jpeg</url>
-      <title>My second geocache</title>
-      <link>https://apzzd.github.io/girlscouts/geocaching/index.html</link>
-    </image>
+    <enclosure url="https://raw.githubusercontent.com/apzzd/girlscouts/master/geocaching/04-found-second-geocache.jpeg" length="93507" type="image/jpeg" />
   </item>
 </channel>
 
