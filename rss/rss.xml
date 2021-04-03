@@ -2,17 +2,37 @@
 <rss version="2.0">
 
 <channel>
-  <title>Apzzd's Home Page</title>
-  <link>https://apzzd.github.io</link>
-  <description>Apzzd's Home Page</description>
+  <title>Girl Scouting</title>
+  <link>https://apzzd.github.io/girlscouts/</link>
+  <description>Find out what I've been doing as a Girl Scout.</description>
+
+  <!-- Add new items to the top, here! -->
+  <!-- For an enclosure length, look at the image in a browser, Network tab, Response, Content-length. -->
 
   <item>
-    <title>Girl Scouts: Geocaching Badge</title>
+    <title>Scribe's Scribbles</title>
+    <link>https://github.com/pzzd/girl-scouts-volunteer/raw/main/scribe/newsletter-20201220.pdf</link>
+    <guid>https://github.com/pzzd/girl-scouts-volunteer/raw/main/scribe/newsletter-20201220.pdf</guid>
+    <description>Juniors in my troop earned the Scribe badge and produced this newsletter.</description>
+    <enclosure url="https://github.com/pzzd/girl-scouts-volunteer/raw/main/scribe/newsletter-20201220.pdf" length="7100000" type="application/pdf" />
+  </item>
+
+  <item>
+    <title>Junior Geocaching Badge</title>
     <link>https://apzzd.github.io/girlscouts/geocaching/index.html</link>
     <guid>https://apzzd.github.io/girlscouts/geocaching/index.html</guid>
-    <description>Find out about my geocaching adventure.</description>
+    <description>Read about my geocaching adventure in Utah, Nevada, and Tennessee.</description>
     <enclosure url="https://raw.githubusercontent.com/apzzd/girlscouts/master/geocaching/04-found-second-geocache.jpeg" length="93507" type="image/jpeg" />
   </item>
+
+  <item>
+    <title>Junior Drawing Badge</title>
+    <link>https://apzzd.github.io/girlscouts/drawing/index.html</link>
+    <guid>https://apzzd.github.io/girlscouts/drawing/index.html</guid>
+    <description>I learned a lot out drawing materials and techniques!</description>
+    <enclosure url="https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg" length="60991" type="image/jpeg" />
+  </item>
+
 </channel>
 
 </rss>
