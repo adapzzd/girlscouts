@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Apzzd's Home Page</title>
+  <link>https://apzzd.github.io</link>
+  <description>Apzzd's Home Page</description>
+
+  <item>
+    <title>Girl Scouts: Geocaching Badge</title>
+    <link>https://apzzd.github.io/girlscouts/geocaching/index.html</link>
+    <description>Find out about my geocaching adventure.</description>
+    <image>
+      <url>https://raw.githubusercontent.com/apzzd/girlscouts/master/geocaching/04-found-second-geocache.jpeg</url>
+      <title>My second geocache</title>
+      <link>https://apzzd.github.io/girlscouts/geocaching/index.html</link>
+    </image>
+  </item>
+</channel>
+
+</rss>
