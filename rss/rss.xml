@@ -4,6 +4,7 @@
 <channel>
   <title>Girl Scouting</title>
   <link>https://apzzd.github.io/girlscouts/</link>
+  <atom:link href="https://apzzd.github.io/girlscouts/rss/rss.xml" rel="self" type="application/rss+xml" />
   <description>Find out what I've been doing as a Girl Scout.</description>
 
   <!-- Add new items to the top, here! -->
@@ -15,6 +16,7 @@
     <guid>https://apzzd.github.io/girlscouts/cadette/newcuisines.html#req2</guid>
     <description>Make an ummy-nummy meat-filled New Mexican stew!! :D</description>
     <enclosure url="https://apzzd.github.io/girlscouts/cadette/newcuisines-posole.jpeg" length="65360" type="image/jpeg" />
+    <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
   </item>
 
   <item>
@@ -41,6 +43,9 @@
     <guid>https://apzzd.github.io/girlscouts/drawing/index.html</guid>
     <description>I learned a lot out drawing materials and techniques!</description>
     <enclosure url="https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg" length="60991" type="image/jpeg" />
+    <content:encoded><![CDATA[
+      <p>I learned a lot out drawing materials and techniques!</p>
+      <img src="https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg" />]]></content:encoded>
     <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
   </item>
 
