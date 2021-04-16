@@ -4,6 +4,7 @@
 <channel>
   <title>Girl Scouting</title>
   <link>https://apzzd.github.io/girlscouts/</link>
+  <atom:link href="https://apzzd.github.io/girlscouts/rss/rss.xml" rel="self" type="application/rss+xml" />
   <description>Find out what I've been doing as a Girl Scout.</description>
 
   <!-- Add new items to the top, here! -->
