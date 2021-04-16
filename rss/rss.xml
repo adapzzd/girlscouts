@@ -32,11 +32,7 @@
     <link>https://apzzd.github.io/girlscouts/drawing/index.html</link>
     <guid>https://apzzd.github.io/girlscouts/drawing/index.html</guid>
     <description>I learned a lot out drawing materials and techniques!</description>
-	<image>
-		<url>https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg</url>
-		<title>Sandia Mountain</title>
-		<link>https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg</link>
-	</image>
+    <enclosure url="https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg" length="60991" type="image/jpeg" />
   </item>
 
 </channel>
