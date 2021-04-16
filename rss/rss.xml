@@ -6,8 +6,6 @@
   <link>https://apzzd.github.io/girlscouts/</link>
   <description>Find out what I've been doing as a Girl Scout.</description>
 
-  <pubDate>Fri, 16 Apr 2021</pubDate>
-
   <!-- Add new items to the top, here! -->
   <!-- For an enclosure length, look at the image in a browser, Network tab, Response, Content-length. -->
 
@@ -18,14 +16,14 @@
     <description>Make an ummy-nummy meat-filled New Mexican stew!! :D</description>
     <enclosure url="https://apzzd.github.io/girlscouts/cadette/newcuisines-posole.jpeg" length="65360" type="image/jpeg" />
   </item>
-  
-  
+
   <item>
     <title>Scribe's Scribbles</title>
     <link>https://pzzd.github.io/girl-scouts-volunteer/scribe/newsletter-20201220.pdf</link>
     <guid>https://pzzd.github.io/girl-scouts-volunteer/scribe/newsletter-20201220.pdf</guid>
     <description>Juniors in my troop earned the Scribe badge and produced a newsletter called Scribe's Scribbles.</description>
     <enclosure url="https://pzzd.github.io/girl-scouts-volunteer/scribe/newsletter-20201220.pdf" length="7100000" type="application/pdf" />
+    <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
   </item>
 
   <item>
@@ -34,6 +32,7 @@
     <guid>https://apzzd.github.io/girlscouts/geocaching/index.html</guid>
     <description>Read about my geocaching adventure in Utah, Nevada, and Tennessee.</description>
     <enclosure url="https://raw.githubusercontent.com/apzzd/girlscouts/master/geocaching/04-found-second-geocache.jpeg" length="93507" type="image/jpeg" />
+    <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
   </item>
 
   <item>
@@ -41,11 +40,8 @@
     <link>https://apzzd.github.io/girlscouts/drawing/index.html</link>
     <guid>https://apzzd.github.io/girlscouts/drawing/index.html</guid>
     <description>I learned a lot out drawing materials and techniques!</description>
-	<image>
-		<url>https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg</url>
-		<title>Sandia Mountain</title>
-		<link>https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg</link>
-	</image>
+    <enclosure url="https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg" length="60991" type="image/jpeg" />
+    <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
   </item>
 
 </channel>
