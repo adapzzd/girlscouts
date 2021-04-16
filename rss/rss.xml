@@ -6,6 +6,8 @@
   <link>https://apzzd.github.io/girlscouts/</link>
   <description>Find out what I've been doing as a Girl Scout.</description>
 
+  <pubDate>Fri, 16 Apr 2021</pubDate>
+
   <!-- Add new items to the top, here! -->
   <!-- For an enclosure length, look at the image in a browser, Network tab, Response, Content-length. -->
 
@@ -39,7 +41,11 @@
     <link>https://apzzd.github.io/girlscouts/drawing/index.html</link>
     <guid>https://apzzd.github.io/girlscouts/drawing/index.html</guid>
     <description>I learned a lot out drawing materials and techniques!</description>
-    <enclosure url="https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg" length="60991" type="image/jpeg" />
+	<image>
+		<url>https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg</url>
+		<title>Sandia Mountain</title>
+		<link>https://raw.githubusercontent.com/apzzd/girlscouts/drawing/drawing/03-sandia-pastel.jpeg</link>
+	</image>
   </item>
 
 </channel>
