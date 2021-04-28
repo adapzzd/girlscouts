@@ -18,6 +18,19 @@
   <!-- Add new items to the top, here! -->
   <!-- For an enclosure length, look at the image in a browser, Network tab, Response, Content-length. -->
 
+  
+  <item>
+    <title>Masala Dosas!</title>
+    <link>https://apzzd.github.io/girlscouts/cadette/newcuisines.html</link>
+    <guid>https://apzzd.github.io/girlscouts/cadette/newcuisines.html</guid>
+    <description>Make some deeeeeelicious crispy dosas with potato filling. :P</description>
+    <content:encoded><![CDATA[
+      <p>Make some deeeeeelicious crispy dosas with potato filling. :P</p>
+    ]]></content:encoded>
+    <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+  </item>
+  
+  
   <item>
     <title>Posole!!</title>
     <link>https://apzzd.github.io/girlscouts/cadette/newcuisines.html#req2</link>
@@ -30,6 +43,7 @@
     ]]></content:encoded>
     <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
   </item>
+  
 
   <item>
     <title>Scribe's Scribbles</title>
