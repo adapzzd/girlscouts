@@ -1,0 +1,113 @@
+/*
+COLOR PALETTE
+https://coolors.co/695958-b6c8a9-c8ead3-cfffe5-cedada
+#695958 - umber
+#B6C8A9 - laurel green
+#C8EAD3 - aero blue
+#CFFFE5 - aero blue (minty)
+#CEDADA - light gray
+*/
+
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background: #B6C8A9;
+  color: #695958;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+a {
+	color: #ED6A5A;
+}
+
+header, main, footer{
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+}
+
+header {
+  background: #695958;
+  padding: 1px 15px;
+  color: #CEDADA;
+}
+
+h1 {
+  margin: 5px auto;
+  line-height: 1;
+}
+
+main {
+  background: #FFF;
+  padding: 10px 15px;
+}
+
+h2 {
+	margin: 5px auto;
+	line-height: 1;
+	background: #CEDADA;
+	padding: 5px;
+}
+
+hr {
+  margin-bottom: 25px;
+}
+
+footer {
+  background: #C8EAD3;
+  padding: 10px 15px;
+}
+
+@media screen and (min-width:501px){
+  img.screen {
+	width: 80%;
+	height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #5D576B;
+    }
+}
+
+@media screen and (max-width:500px){
+  img.screen {
+  	max-width: 100%;
+	height: auto;
+	display: block;
+	border: 1px solid #5D576B;
+  }
+}
+
+@media print {
+  header {
+    background: #FFF;
+    color: #000;
+  }
+  body {
+    background: #FFF;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8px;
+    line-height: 1.5;
+  }
+  h2 {
+    margin: 0px auto;
+    padding: 0px;
+  }
+  hr {
+    margin-bottom: 15px;
+  }
+}
