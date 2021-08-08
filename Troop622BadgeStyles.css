@@ -53,6 +53,11 @@ main {
   padding: 10px 15px;
 }
 
+img { 
+	float: right;
+	padding:10px;
+}
+
 h2 {
 	margin: 5px auto;
 	line-height: 1;
