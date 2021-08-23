@@ -1,0 +1,72 @@
+~Computational thinking~
+
+Computational thinking is a way of thinking about things step-by-step. When you use computational thinking, you break things down and think about the problem in small parts. So, sort of like thinking about doing something like you were programming a computer to do it.  [ not grammatical ]
+
+Decomposition 
+
+For example, let’s think about making a sandwich. If you thought about how to make one and don’t use computational thinking, you lose a lot of precision and aren’t as specific about what to do.  Here’s what it might look like if you wrote out how to make a sandwich without thinking computationally:  [ run-on ]
+
+	1.	Get a slice of bread out of a bag.
+	2.	Spread peanut butter on it.
+	3.	Spread jelly on it.
+	4.	Put another slice of bread on it.
+
+Also, look at this video to see some people making PB&Js without thinking computationally:  https://www.youtube.com/watch?v=XWe4iohhmIw
+
+Let’s think about it computationally, but please take note that this could be so much more specific, because you could control individual finger movements, but here we’re assuming that you can do things like untie a bread bag and hold a knife.
+
+	1.	Untie the bread bag.
+	2.	Reach in and pull out one slice of bread.
+	3.	Set the bread down.
+	4.	Open a jar of peanut butter by twisting the lid to the left.
+	5.	Pick a butter knife up.
+	6.	Hold the handle of the knife.
+	7.	Scoop peanut butter out of the jar with the blade of the knife.
+	8.	Spread the peanut butter that is on the blade of the knife on the slice of bread.
+	9.	Put the butter knife down.
+	10.	Open a jar of jelly by twisting the lid to the left.
+	11.	Pick a butter knife up.
+	12.	Hold the handle of the knife.
+	13.	Scoop jelly out of the jar with the blade of the knife.
+	14.	Spread the jelly that is on the blade of the knife on the peanut butter.
+	15.	Reach in and pull out one slice of bread.
+	16.	Set the bread down on top of the jelly.
+
+So, you can see that it is harder and more tedious to think about something computationally, but it pays off when the task is done correctly.
+
+Pattern recognition and data representation
+
+If we adapt our algorithm, we find that we can use it to make different types of sandwiches, like ham and cheese or pickle and mayonnaise. We can recognize a pattern between all of these different algorithms: we use bread, have some sort of condiments, and all of the ingredients are stacked on top of one another.
+
+When we make an algorithm that describes how to make a sandwich, there are usually some things in common that we use. These things that we manipulate are called data. In the PB&J example, the data is the bread, peanut butter, jelly, butter knife, and jars. (Remember, just because the knife and jars don’t go into the sandwich doesn’t mean they’re not used!)
+
+Generalization 
+
+Now that we know the steps that are used when making any kind of sandwich, and some data that is usually used, we can start to generalize. Here’s a generalization of how to make a sandwich:
+
+	1.	Untie the bread bag.
+	2.	Reach in and pull out one slice of bread.
+	3.	Set the bread down.
+	4.	Open the container of a condiment.
+	5.	Put the condiment on top of the bread or preceding condiment.
+	6.	Continue until all condiments are used.	
+	7.	Reach in and pull out one slice of bread.
+	8.	Set the bread down on top of the last condiment.
+
+This is a pretty general algorithm that describes how to make any type of sandwich. This is not as general as it could be, but still pretty simple.
+
+Algorithm
+
+The last algorithm we wrote was a pretty good example of one you would use when telling someone who has no idea how to make a sandwich how to make one (an alien, perhaps). We could generalize this even further, like if we wanted to make a breakfast sandwich with pancakes instead of bread, or a pita wrap  by putting chicken and vegetables inside an opened slice of pita bread (A pita wrap is a sandwich, right?).
+
+So, now you can use this algorithm to make a sandwich to test it. But make sure you follow it like a computer, and look for exceptions - you might find something that isn’t specific enough. Try to act like the people in the YouTube video earlier.
+
+
+References:
+
+https://en.wikipedia.org/wiki/Computational_thinking
+https://www.youtube.com/watch?v=XWe4iohhmIw
+
+
+
+
