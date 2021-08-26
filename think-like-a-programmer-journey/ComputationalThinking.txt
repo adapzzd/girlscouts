@@ -1,6 +1,6 @@
 Computational Thinking
 
-Computational thinking is a way of thinking about things step-by-step. When you use computational thinking, you break things down and think about the problem in small parts. It’s sort of like thinking about doing something like you were programming a computer to do it. 
+Computational thinking is a way of thinking about things step-by-step. When you use computational thinking, you break things down and think about the problem in small parts. It’s sort of like thinking about doing something like you were programming a computer to do it.  (https://en.wikipedia.org/wiki/Computational_thinking)
 
 For example, let’s think about making a sandwich. If you thought about how to make one and don’t use computational thinking, you lose a lot of precision and aren’t as specific about what to do.  Here’s what it might look like if you wrote out how to make a sandwich without thinking computationally: 
 
@@ -20,7 +20,7 @@ There are 4 parts to computational thinking: decomposition, pattern recognition,
 
 Decomposition
 
-“Decomposition in computer science, also known as factoring, is breaking a complex problem or system into parts that are easier to conceive, understand, program, and maintain.” - Wikipedia
+“Decomposition in computer science, also known as factoring, is breaking a complex problem or system into parts that are easier to conceive, understand, program, and maintain.” (https://en.wikipedia.org/wiki/Decomposition_(computer_science))
 
 We can decompose the process of making a PB&J into these steps:
 
@@ -45,7 +45,7 @@ These steps have to be precise, or the result might not turn out the way you wan
 
 Pattern recognition
 
-“Pattern recognition is the automated recognition of patterns and regularities in data.” - Wikipedia
+“Pattern recognition is the automated recognition of patterns and regularities in data.” (https://en.wikipedia.org/wiki/Pattern_recognition)
 
 If we adapt our process for making a PB&J, called an algorithm, we find that we can use it to make different types of sandwiches, like ham and cheese or pickle and mayonnaise. We can recognize a pattern between all of these different algorithms: we use bread, have some sort of condiments, and all of the ingredients are stacked on top of one another.
 
@@ -53,9 +53,10 @@ When we make an algorithm that describes how to make a sandwich, there are usual
 
 Generalization 
 
-“Generalization can also be used to refer to the process of identifying the parts of a whole, as belonging to the whole.” - Wikipedia
+“Generalization can also be used to refer to the process of identifying the parts of a whole, as belonging to the whole.” (https://en.wikipedia.org/wiki/Generalization)
 
-This definition can be a bit trick, so think about it this way: a generalization of something is the group it belongs to. For example, take a Labrador Retriever. If you wanted to generalize it, you could call it a dog, and if you wanted to generalize it even further, you could call it an animal.
+This definition can be a bit tricky, so think about it this way: a generalization of something is the group it belongs to. For example, “sandwich” is a generalization on both “PB&J” and “ham and cheese sandwich”. Also, “condiment” is the generalization of both “peanut butter” and “jelly”. 
+
 
 Now that we know the steps that are used when making any kind of sandwich, and some data that is usually used, we can start to generalize. Here’s a generalization of how to make a sandwich:
 
@@ -74,7 +75,7 @@ This is a pretty general algorithm that describes how to make any type of sandwi
 
 Algorithm
 
-“In mathematics and computer science, an algorithm…is a finite sequence of well defined, computer-implementable instructions, typically to solve a class of specific problems or to perform a computation.” - Wikipedia
+“In mathematics and computer science, an algorithm...is a finite sequence of well defined, computer-implementable instructions, typically to solve a class of specific problems or to perform a computation.” (https://en.wikipedia.org/wiki/Algorithm)
 
 In other words, it’s a really specific list of things you have to do to get a certain result.
 
@@ -83,11 +84,5 @@ The last algorithm we wrote was a pretty good example of one you would use when 
 So, now you can use this algorithm to make a sandwich to test it. But make sure you follow it like a computer, and look for exceptions - you might find something that isn’t specific enough. Try to act like the people in the YouTube video earlier.
 
 
-References:
 
-https://en.wikipedia.org/wiki/Computational_thinking
-https://en.wikipedia.org/wiki/Decomposition_(computer_science)
-https://en.wikipedia.org/wiki/Pattern_recognition
-https://en.wikipedia.org/wiki/Generalization
-https://www.youtube.com/watch?v=XWe4iohhmIw
 
