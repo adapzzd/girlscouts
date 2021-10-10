@@ -18,7 +18,17 @@
   <!-- Add new items to the top, here! -->
   <!-- For an enclosure length, look at the image in a browser, Network tab, Response, Content-length. -->
 
-  
+  <item>
+    <title>New Cuisines Badge</title>
+    <link>https://apzzd.github.io/girlscouts/cadette/newcuisines/index.html</link>
+    <guid>https://apzzd.github.io/girlscouts/cadette/newcuisines/index.html</guid>
+    <description>Learn how to make meals from New Mexico, Southern India, and THE PAST.</description>
+    <content:encoded><![CDATA[
+      <p>Learn how to make meals from New Mexico, Southern India, and THE PAST.</p>
+    ]]></content:encoded>
+    <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+  </item>  
+
   <item>
     <title>Horseback Riding Badge</title>
     <link>https://apzzd.github.io/girlscouts/horseback_riding.html</link>
