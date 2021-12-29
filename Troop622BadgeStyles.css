@@ -64,6 +64,11 @@ img.requirement {
   width: 300px;
 }
 
+img.small {
+	float: left;
+	align: left;
+}
+
 h2 {
 	margin: 5px auto;
 	line-height: 1;
