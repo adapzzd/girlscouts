@@ -65,8 +65,8 @@ img.requirement {
 }
 
 img.small {
-	float: left;
-	align: left;
+	float: none;
+	width: 100px;
 }
 
 h2 {
